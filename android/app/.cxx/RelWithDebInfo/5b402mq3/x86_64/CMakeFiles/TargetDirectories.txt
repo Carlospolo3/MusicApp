@@ -1,0 +1,2 @@
+C:/Users/thebe/Downloads/Compressed/gyawun-main/android/app/.cxx/RelWithDebInfo/5b402mq3/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/thebe/Downloads/Compressed/gyawun-main/android/app/.cxx/RelWithDebInfo/5b402mq3/x86_64/CMakeFiles/rebuild_cache.dir
